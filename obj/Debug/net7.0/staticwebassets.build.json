@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Pp9S8Udc3SKklGusQPX42G9LwEk48FEVJAGfNcFh/Tc=",
+  "Source": "ImagesApi",
+  "BasePath": "_content/ImagesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ImagesApi/wwwroot",
+      "Source": "ImagesApi",
+      "ContentRoot": "/home/nando/Desktop/Nando/Testes/ImagesApi/wwwroot/",
+      "BasePath": "_content/ImagesApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/nando/Desktop/Nando/Testes/ImagesApi/wwwroot/Screenshot from 2023-03-15 16-41-10.png",
+      "SourceId": "ImagesApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/nando/Desktop/Nando/Testes/ImagesApi/wwwroot/",
+      "BasePath": "_content/ImagesApi",
+      "RelativePath": "Screenshot from 2023-03-15 16-41-10.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Screenshot from 2023-03-15 16-41-10.png"
+    }
+  ]
+}

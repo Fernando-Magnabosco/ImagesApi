@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/home/nando/Desktop/Nando/Testes/ImagesApi/wwwroot/Screenshot from 2023-03-15 16-41-10.png",
+      "PackagePath": "staticwebassets/Screenshot from 2023-03-15 16-41-10.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.ImagesApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.ImagesApi.props",
+      "PackagePath": "build\\ImagesApi.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ImagesApi.props",
+      "PackagePath": "buildMultiTargeting\\ImagesApi.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ImagesApi.props",
+      "PackagePath": "buildTransitive\\ImagesApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
